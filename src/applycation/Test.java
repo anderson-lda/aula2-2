@@ -8,6 +8,7 @@ public class Test {
 		System.out.println("Hello everybody!");
 		System.out.println("Today is Monday.");
 		System.out.println("I am determinated.");
+                System.out.println("print a mais para teste");
 	}
 
 }
